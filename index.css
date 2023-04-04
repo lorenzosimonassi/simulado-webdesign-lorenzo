@@ -1,0 +1,73 @@
+body{
+    background-color: rgb(23, 23, 27);
+    font-family: 'Poppins', sans-serif;
+    background-image: linear-gradient(to bottom, black, rgb(44, 35, 65) );
+
+}
+
+nav h1{
+    color: aliceblue;
+    font-size: 50px;
+    text-align: center;
+    font-weight: bolder;
+}
+
+nav span{
+    color: rgb(61, 27, 141);
+}
+
+div img{
+    width: 42%;
+    height: 42%;
+    object-fit: cover
+}
+
+div{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+section{
+    text-align: center;
+    justify-content: center;
+    margin-top: 2%;
+}
+
+.botao{
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 25px;
+    border-radius: 5px;
+}
+
+.botao:hover{
+    background-color: rgb(61, 27, 141);
+}
+
+main{
+    text-align: center;
+    align-items: center;
+    display: flex;
+    margin-top: 5%;
+    margin-right: 5%;
+}
+
+main video{
+    text-align: center;
+    align-items: center;
+    width: 40%
+}
+
+main p{
+    color: aliceblue;
+    margin-right: 2%;
+    margin-left: 2%;
+}
+
+footer{
+    text-align: center;
+    color: rgb(201, 201, 201);
+    font-weight: bolder;
+    padding-top: 2%;
+}
